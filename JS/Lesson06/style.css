@@ -1,0 +1,14 @@
+h3{
+    margin-left: 20px;
+}
+a:hover{
+    background-color: white;
+}
+a:visited{
+    color:black;
+}
+.main {
+    height:500px;
+    width:480px;
+    background-image:url(js.background1.png);
+}
